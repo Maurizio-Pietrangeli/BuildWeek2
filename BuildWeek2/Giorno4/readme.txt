@@ -1,0 +1,2 @@
+con una configurazione di base di Nessus non si riesce a rilevare la vulnerabilità (CVE-2007-2447) del servizio sulla porta 445 TCP.
+per rilevare questa vulnerabilità occorre fare una scansione castom più approfondita. 
